@@ -14,8 +14,7 @@ The fields that can be used for prediction are:
 Two ways to let the AI be your expert:<br/>
 1. Easy Way:      <br/>
   Simply click the link below to go the run the application.  <br/>              
-  <TBA><br/>                                 
-<br/>
+  <TBA>
 2. Programmer's Way:<br/>                      
   Clone the resposiory.  <br/>                   
   In one terminal:            <br/>     
