@@ -12,9 +12,9 @@ The fields that can be used for prediction are:
 9. Grades Perdiction
 
 Two ways to let the AI be your expert:
-1. Easy Way:
-  Simply click the link below to go the run the application.
-  <TBA>                                
+1. Easy Way:      
+  Simply click the link below to go the run the application.                
+  <TBA>                                 
 2. Programmer's Way:                      
   Clone the resposiory.                     
   In one terminal:                 
